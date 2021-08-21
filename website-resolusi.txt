@@ -4,4 +4,4 @@ WEBSITE RESOLUSI
 -membuat website artikel
 -belajar bahasa pemrograman php
 -belajar lavarel
--kolaborasi dengan teman
+-membuat web penjualan
