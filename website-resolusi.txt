@@ -3,3 +3,5 @@ WEBSITE RESOLUSI
 -membuat website portfolio
 -membuat website artikel
 -belajar bahasa pemrograman php
+-belajar lavarel
+-kolaborasi dengan teman
